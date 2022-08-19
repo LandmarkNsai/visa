@@ -9,3 +9,5 @@ deployment4
 deployment5
 deployment6
 deploy application to staging
+echo good job
+Tested and accepted
