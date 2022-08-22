@@ -2,5 +2,5 @@
 # nsai
 # simon
 # paul
-# chi
-# ope
+# marie
+# james
