@@ -11,4 +11,4 @@ deployment6
 deploy application to staging
 echo good job
 Tested and accepted
->>>>>>> 4947778 (Tested and approved by QA team)
+
